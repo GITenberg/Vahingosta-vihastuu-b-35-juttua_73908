@@ -1,0 +1,32 @@
+_repo: Vahingosta-vihastuu-b-35-juttua_73908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wuorinen, Olli
+    aliases:
+    - Berg, Olof
+    - Wuorinen, O.
+    - Berg, O.
+    birthdate: 1842
+    deathdate: 1917
+    gutenberg_agent_id: '32095'
+    url: http://www.gutenberg.org/2009/agents/32095
+    wikipedia: http://fi.wikipedia.org/wiki/Olli_Wuorinen
+description: ''
+gutenberg_issued: '2024-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73908'
+language: fi
+pgterms:marc905: 20240522025905author
+pgterms:marc906: '2008'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c2008.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Vahingosta vihastuu : $b 35 juttua'
+url: http://www.gutenberg.org/ebooks/73908
